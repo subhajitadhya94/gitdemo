@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="157" started-at="2021-06-19T13:43:25 IST" finished-at="2021-06-19T13:43:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="157" started-at="2021-06-19T13:43:25 IST" finished-at="2021-06-19T13:43:25 IST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="IosApps()[pri:0, instance:qaclickacademy.AppiumTest@3d99d22e]" name="IosApps" duration-ms="9" started-at="2021-06-19T13:43:25 IST" finished-at="2021-06-19T13:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.AppiumTest@3d99d22e]" name="NativeAppAndroid" duration-ms="0" started-at="2021-06-19T13:43:25 IST" finished-at="2021-06-19T13:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method status="PASS" signature="subhajit()[pri:0, instance:qaclickacademy.AppiumTest@3d99d22e]" name="subhajit" duration-ms="1" started-at="2021-06-19T13:43:25 IST" finished-at="2021-06-19T13:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subhajit -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.WebTest">
+        <test-method status="PASS" signature="pqr()[pri:0, instance:qaclickacademy.WebTest@30b8a058]" name="pqr" duration-ms="3" started-at="2021-06-19T13:43:25 IST" finished-at="2021-06-19T13:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pqr -->
+      </class> <!-- qaclickacademy.WebTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="Webtest()[pri:0, instance:qaclickacademy.SeleniumTest@72b6cbcc]" name="Webtest" duration-ms="6" started-at="2021-06-19T13:43:25 IST" finished-at="2021-06-19T13:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webtest -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+      <class name="qaclickacademy.JiraTest">
+        <test-method status="PASS" signature="Abcd()[pri:0, instance:qaclickacademy.JiraTest@a7e666]" name="Abcd" duration-ms="3" started-at="2021-06-19T13:43:25 IST" finished-at="2021-06-19T13:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Abcd -->
+        <test-method status="PASS" signature="DEF()[pri:0, instance:qaclickacademy.JiraTest@a7e666]" name="DEF" duration-ms="1" started-at="2021-06-19T13:43:25 IST" finished-at="2021-06-19T13:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DEF -->
+        <test-method status="PASS" signature="XYZ()[pri:0, instance:qaclickacademy.JiraTest@a7e666]" name="XYZ" duration-ms="0" started-at="2021-06-19T13:43:25 IST" finished-at="2021-06-19T13:43:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XYZ -->
+      </class> <!-- qaclickacademy.JiraTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
