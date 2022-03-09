@@ -8,12 +8,17 @@ public class AppiumTest {
 	public void NativeAppAndroid() {
 		System.out.println("NativeAppAndroid");
 		System.out.println("NativeAppAndroid by USA");
+		
+		//Indian guy is working
+		System.out.println("NativeAppAndroid by India");
 	}
 	
 	@Test
 	public void IosApps() {
 		System.out.println("IosApps");
 		System.out.println("IosApps by USA");
+		
+		System.out.println("IosApp built by India");
 	}
 	
 	@Test
