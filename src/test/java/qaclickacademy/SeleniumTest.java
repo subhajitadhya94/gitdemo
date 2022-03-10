@@ -9,6 +9,9 @@ public class SeleniumTest {
 		System.out.println("Webtest");
 		
 		System.out.println("Mobile Test");
+		
+		// Architect working on develop branch
+		System.out.println("Selenium testing in Develop branch");
 	}
 
 }

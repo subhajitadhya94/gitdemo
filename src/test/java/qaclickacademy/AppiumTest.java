@@ -11,6 +11,9 @@ public class AppiumTest {
 		
 		//Indian guy is working
 		System.out.println("NativeAppAndroid by India");
+		
+		// Architect working on develop branch
+		System.out.println("NativeAppAndroid in Develop branch");
 	}
 	
 	@Test
@@ -19,6 +22,9 @@ public class AppiumTest {
 		System.out.println("IosApps by USA");
 		
 		System.out.println("IosApp built by India");
+		
+		// Architect working on develop branch
+		System.out.println("NativeAppAndroid in Develop branch");
 	}
 	
 	@Test
